@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @igorkopylov1
+- 👀 I’m interested in backend development
+- 🌱 I’m currently learning new technologies like kafka, redis, k8s
+- 💞️ I’m looking to collaborate on open-source projects and innovative applications
+- 📫 How to reach me: copylov.egorka@yandex.ru
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time!
